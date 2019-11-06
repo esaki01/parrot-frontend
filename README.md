@@ -1,11 +1,12 @@
-# PARROT/Frontend
-Frontend service of PARROT.
+# parrot-frontend
+> The frontend service of "PARROT".
 
 ## Environments
-- Programming language: JavaScript, HTML, CSS
+- Language: JavaScript, HTML, CSS
 - Framework: Vue, Bulma
 - Platform: Node.js
-- Web server: nginx
+- Web Server: Nginx
+- Deploy: Cloud Run
 
 ## Project setup
 ```
